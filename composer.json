@@ -1,0 +1,10 @@
+{
+    "name": "nazmulb/mac-address-php",
+    "description": "Getting MAC Address using PHP",
+    "authors": [
+        {
+            "name": "Nazmul Basher",
+            "email": "nazmul.basher@gmail.com"
+        }
+    ]
+}
