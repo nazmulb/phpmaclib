@@ -150,5 +150,3 @@ class MacAddress{
         return trim ( $os );
     }
 }
-
-echo MacAddress::getMacAddress();
