@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"NazmulB\\": "src"}
+        "psr-4": {"NazmulB\\MacAddressPhpLib\\": "src"}
     }
 }

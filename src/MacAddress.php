@@ -4,16 +4,16 @@
  * Getting MAC Address using PHP
  *  
  *
- * @package     MacAddressPhpLib
+ * @package     NazmulB\MacAddressPhpLib
  * @category    Library
  * @author      Nazmul Basher <nazmul.basher@gmail.com>
  * @link        https://github.com/nazmulb
  * @date		18/0512/2017 (dd/mm/yyyy)
  */
 
-namespace MacAddressPhpLib;
+namespace NazmulB\MacAddressPhpLib;
 
-class MacAddress {
+class MacAddress{
 
     /**
 	 * Get MAC Address using PHP
