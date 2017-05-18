@@ -23,7 +23,7 @@ class MacAddress{
 
         $mac = "Not Found";
 
-        if(self::getOperatingSystemInfo() == ""){
+        if(preg_match('/^Windows/i', self::getOperatingSystemInfo())){
             ob_start(); // Turn on output buffering
             system('ipconfig /all'); //Execute external program to display output
             $mycom = ob_get_contents(); // Capture the output into a variable
@@ -150,3 +150,5 @@ class MacAddress{
         return trim ( $os );
     }
 }
+
+echo MacAddress::getMacAddress();
