@@ -6,5 +6,8 @@
             "name": "Nazmul Basher",
             "email": "nazmul.basher@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"NazmulB\\": "src"}
+    },
 }
