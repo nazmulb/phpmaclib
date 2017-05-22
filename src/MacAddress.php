@@ -8,7 +8,7 @@
  * @category    Library
  * @author      Nazmul Basher <nazmul.basher@gmail.com>
  * @link        https://github.com/nazmulb
- * @date		18/0512/2017 (dd/mm/yyyy)
+ * @date		18/05/2017 (dd/mm/yyyy)
  */
 
 namespace NazmulB\MacAddressPhpLib;
